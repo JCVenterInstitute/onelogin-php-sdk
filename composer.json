@@ -1,5 +1,5 @@
 {
-    "name": "onelogin/api",
+    "name": "jcvi/onelogin",
     "type": "library",
     "version": "1.0.0",
     "minimum-stability": "dev",
